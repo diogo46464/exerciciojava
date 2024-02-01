@@ -6,9 +6,9 @@ public class processandodados {
 
 		public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int x;
-		x = sc.next();
-		System.out.println("Você diditou:" + x);
+		double x;
+		x = sc.nextDouble();
+		System.out.printf("Você diditou: %.2f%n" , x);
 		
 		
 		
