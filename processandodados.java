@@ -6,7 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		String x;
+		int x;
 		x = sc.next();
 		System.out.println("Você diditou:" + x);
 		
