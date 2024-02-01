@@ -7,9 +7,16 @@ public class processandodados {
 		public static void main(String[] args) {
 			Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
-		char x;
-		x = sc.nextDouble();
-		System.out.println("Você digitou:" + x);
+		String  x;
+		int y;
+		double z
+		x = sc.next();
+		y = sc.nextInt();
+		z = sc.nextDouble();
+		System.out.println("Você digitou:");
+		Sytem.out.println(x);
+		Sytem.out.println(y);
+		Sytem.out.println(z);
 		
 		
 		
